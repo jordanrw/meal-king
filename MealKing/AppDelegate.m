@@ -22,8 +22,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    NSLog(@"hey");
-    
 //    self.url = @"http://agile-thicket-5431.herokuapp.com/api/recpie";
 //    Fetcher *feedFetcher = [[Fetcher alloc] init];
 //    
