@@ -459,6 +459,9 @@
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </view>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="purple_tint.tif" translatesAutoresizingMaskIntoConstraints="NO" id="YZk-Tz-05D">
+                                <rect key="frame" x="68" y="83" width="956" height="627"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
@@ -736,6 +739,7 @@
         <image name="mealking.png" width="110" height="90"/>
         <image name="mk_ingredients.png" width="1938" height="1496"/>
         <image name="profile.png" width="110" height="77"/>
+        <image name="purple_tint.tif" width="2048" height="1496"/>
         <image name="quit.png" width="1933" height="1252"/>
         <image name="recipes.png" width="110" height="79"/>
         <image name="recipes_active.png" width="110" height="79"/>
@@ -755,6 +759,6 @@
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
         <segue reference="dUw-TW-LkZ"/>
-        <segue reference="swu-Ez-56U"/>
+        <segue reference="UMF-AL-2bp"/>
     </inferredMetricsTieBreakers>
 </document>

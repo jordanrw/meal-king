@@ -49,6 +49,7 @@
 		1729D83319C4AB6F00585407 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1729D83219C4AB6F00585407 /* Images.xcassets */; };
 		1729D83F19C4AB6F00585407 /* MealKingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1729D83E19C4AB6F00585407 /* MealKingTests.m */; };
 		178C272719C6A7FF0074AFE9 /* quit.png in Resources */ = {isa = PBXBuildFile; fileRef = 178C272619C6A7FF0074AFE9 /* quit.png */; };
+		178ECFEC1B2E7D6A00F77BCE /* purple_tint.tif in Resources */ = {isa = PBXBuildFile; fileRef = 178ECFEB1B2E7D6A00F77BCE /* purple_tint.tif */; };
 		17AF00BF19C579B900E802A6 /* FinalStepsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17AF00BE19C579B900E802A6 /* FinalStepsViewController.m */; };
 		17AF00FE19C5882800E802A6 /* burninghouse_active.png in Resources */ = {isa = PBXBuildFile; fileRef = 17AF00FC19C5882800E802A6 /* burninghouse_active.png */; };
 		17AF00FF19C5882900E802A6 /* burninghouse.png in Resources */ = {isa = PBXBuildFile; fileRef = 17AF00FD19C5882800E802A6 /* burninghouse.png */; };
@@ -197,6 +198,7 @@
 		1729D83D19C4AB6F00585407 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1729D83E19C4AB6F00585407 /* MealKingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MealKingTests.m; sourceTree = "<group>"; };
 		178C272619C6A7FF0074AFE9 /* quit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quit.png; sourceTree = "<group>"; };
+		178ECFEB1B2E7D6A00F77BCE /* purple_tint.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = purple_tint.tif; sourceTree = "<group>"; };
 		17AF00BD19C579B900E802A6 /* FinalStepsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FinalStepsViewController.h; sourceTree = "<group>"; };
 		17AF00BE19C579B900E802A6 /* FinalStepsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FinalStepsViewController.m; sourceTree = "<group>"; };
 		17AF00FC19C5882800E802A6 /* burninghouse_active.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burninghouse_active.png; sourceTree = "<group>"; };
@@ -577,6 +579,7 @@
 		17F37B8E19C4EE160045EC9F /* Recipe View */ = {
 			isa = PBXGroup;
 			children = (
+				178ECFEB1B2E7D6A00F77BCE /* purple_tint.tif */,
 				17E78E5919C554F0009B2B96 /* white_bg.png */,
 				17E78E5A19C554F0009B2B96 /* grey_bg.png */,
 				17F37B8F19C4EE160045EC9F /* burninghouse.png */,
@@ -779,6 +782,7 @@
 				17E78E5E19C55713009B2B96 /* noodles.jpg in Resources */,
 				17F37B8B19C4E9900045EC9F /* DinBold.TTF in Resources */,
 				17F37BC019C508420045EC9F /* topbar_bg.png in Resources */,
+				178ECFEC1B2E7D6A00F77BCE /* purple_tint.tif in Resources */,
 				17F37BB719C507EF0045EC9F /* clock.png in Resources */,
 				17F37BBD19C508420045EC9F /* bottombar_bg.png in Resources */,
 				17F37B8C19C4E9900045EC9F /* DinLight.TTF in Resources */,
